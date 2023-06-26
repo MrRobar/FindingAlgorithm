@@ -1,0 +1,7 @@
+C:\Users\Valery\source\repos\FindingAlgorithm\FindingAlgorithm\bin\Debug\FindingAlgorithm.exe.config
+C:\Users\Valery\source\repos\FindingAlgorithm\FindingAlgorithm\bin\Debug\FindingAlgorithm.exe
+C:\Users\Valery\source\repos\FindingAlgorithm\FindingAlgorithm\bin\Debug\FindingAlgorithm.pdb
+C:\Users\Valery\source\repos\FindingAlgorithm\FindingAlgorithm\obj\Debug\FindingAlgorithm.csprojAssemblyReference.cache
+C:\Users\Valery\source\repos\FindingAlgorithm\FindingAlgorithm\obj\Debug\FindingAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Valery\source\repos\FindingAlgorithm\FindingAlgorithm\obj\Debug\FindingAlgorithm.exe
+C:\Users\Valery\source\repos\FindingAlgorithm\FindingAlgorithm\obj\Debug\FindingAlgorithm.pdb
